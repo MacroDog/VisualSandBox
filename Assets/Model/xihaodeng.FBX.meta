@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 1d02bda22fc84a3419a19850709a7ebe
+timeCreated: 1480647557
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 3dxy
+    100002: Box001
+    100004: Circle125
+    100006: Circle125 1
+    100008: Circle126
+    100010: Circle126 1
+    100012: Circle127
+    100014: Circle127 1
+    100016: Circle128
+    100018: Circle128 1
+    100020: Circle129
+    100022: Circle129 1
+    100024: Circle130
+    100026: Circle131
+    100028: Circle131 1
+    100030: Circle132
+    100032: Circle132 1
+    100034: Circle133
+    100036: Circle133 1
+    100038: Circle134
+    100040: Circle134 1
+    100042: Circle135
+    100044: Circle135 1
+    100046: Circle136
+    100048: Circle136 1
+    100050: GeoSphere223
+    100052: GeoSphere225
+    100054: GeoSphere227
+    100056: GeoSphere229
+    100058: GeoSphere231
+    100060: GeoSphere233
+    100062: GeoSphere236
+    100064: GeoSphere238
+    100066: GeoSphere240
+    100068: GeoSphere241
+    100070: GeoSphere243
+    100072: GeoSphere245
+    100074: Line100
+    100076: Line100 1
+    100078: Line101
+    100080: Line101 1
+    100082: Line97
+    100084: Line98
+    100086: Line98 1
+    100088: Line99
+    100090: Line99 1
+    100092: Rectangle181
+    100094: Rectangle181 1
+    100096: Rectangle182
+    100098: Rectangle182 1
+    100100: Rectangle183
+    100102: Rectangle184
+    100104: Rectangle184 1
+    100106: Rectangle185
+    100108: Rectangle185 1
+    100110: Rectangle186
+    100112: Rectangle186 1
+    100114: //RootNode
+    400000: 3dxy
+    400002: Box001
+    400004: Circle125
+    400006: Circle125 1
+    400008: Circle126
+    400010: Circle126 1
+    400012: Circle127
+    400014: Circle127 1
+    400016: Circle128
+    400018: Circle128 1
+    400020: Circle129
+    400022: Circle129 1
+    400024: Circle130
+    400026: Circle131
+    400028: Circle131 1
+    400030: Circle132
+    400032: Circle132 1
+    400034: Circle133
+    400036: Circle133 1
+    400038: Circle134
+    400040: Circle134 1
+    400042: Circle135
+    400044: Circle135 1
+    400046: Circle136
+    400048: Circle136 1
+    400050: GeoSphere223
+    400052: GeoSphere225
+    400054: GeoSphere227
+    400056: GeoSphere229
+    400058: GeoSphere231
+    400060: GeoSphere233
+    400062: GeoSphere236
+    400064: GeoSphere238
+    400066: GeoSphere240
+    400068: GeoSphere241
+    400070: GeoSphere243
+    400072: GeoSphere245
+    400074: Line100
+    400076: Line100 1
+    400078: Line101
+    400080: Line101 1
+    400082: Line97
+    400084: Line98
+    400086: Line98 1
+    400088: Line99
+    400090: Line99 1
+    400092: Rectangle181
+    400094: Rectangle181 1
+    400096: Rectangle182
+    400098: Rectangle182 1
+    400100: Rectangle183
+    400102: Rectangle184
+    400104: Rectangle184 1
+    400106: Rectangle185
+    400108: Rectangle185 1
+    400110: Rectangle186
+    400112: Rectangle186 1
+    400114: //RootNode
+    2300000: Box001
+    2300002: Circle125
+    2300004: Circle125 1
+    2300006: Circle126
+    2300008: Circle126 1
+    2300010: Circle127
+    2300012: Circle127 1
+    2300014: Circle128
+    2300016: Circle128 1
+    2300018: Circle129
+    2300020: Circle129 1
+    2300022: Circle130
+    2300024: Circle131
+    2300026: Circle131 1
+    2300028: Circle132
+    2300030: Circle132 1
+    2300032: Circle133
+    2300034: Circle133 1
+    2300036: Circle134
+    2300038: Circle134 1
+    2300040: Circle135
+    2300042: Circle135 1
+    2300044: Circle136
+    2300046: Circle136 1
+    2300048: GeoSphere223
+    2300050: GeoSphere225
+    2300052: GeoSphere227
+    2300054: GeoSphere229
+    2300056: GeoSphere231
+    2300058: GeoSphere233
+    2300060: GeoSphere236
+    2300062: GeoSphere238
+    2300064: GeoSphere240
+    2300066: GeoSphere241
+    2300068: GeoSphere243
+    2300070: GeoSphere245
+    2300072: Line100
+    2300074: Line100 1
+    2300076: Line101
+    2300078: Line101 1
+    2300080: Line97
+    2300082: Line98
+    2300084: Line98 1
+    2300086: Line99
+    2300088: Line99 1
+    2300090: Rectangle181
+    2300092: Rectangle181 1
+    2300094: Rectangle182
+    2300096: Rectangle182 1
+    2300098: Rectangle183
+    2300100: Rectangle184
+    2300102: Rectangle184 1
+    2300104: Rectangle185
+    2300106: Rectangle185 1
+    2300108: Rectangle186
+    2300110: Rectangle186 1
+    3300000: Box001
+    3300002: Circle125
+    3300004: Circle125 1
+    3300006: Circle126
+    3300008: Circle126 1
+    3300010: Circle127
+    3300012: Circle127 1
+    3300014: Circle128
+    3300016: Circle128 1
+    3300018: Circle129
+    3300020: Circle129 1
+    3300022: Circle130
+    3300024: Circle131
+    3300026: Circle131 1
+    3300028: Circle132
+    3300030: Circle132 1
+    3300032: Circle133
+    3300034: Circle133 1
+    3300036: Circle134
+    3300038: Circle134 1
+    3300040: Circle135
+    3300042: Circle135 1
+    3300044: Circle136
+    3300046: Circle136 1
+    3300048: GeoSphere223
+    3300050: GeoSphere225
+    3300052: GeoSphere227
+    3300054: GeoSphere229
+    3300056: GeoSphere231
+    3300058: GeoSphere233
+    3300060: GeoSphere236
+    3300062: GeoSphere238
+    3300064: GeoSphere240
+    3300066: GeoSphere241
+    3300068: GeoSphere243
+    3300070: GeoSphere245
+    3300072: Line100
+    3300074: Line100 1
+    3300076: Line101
+    3300078: Line101 1
+    3300080: Line97
+    3300082: Line98
+    3300084: Line98 1
+    3300086: Line99
+    3300088: Line99 1
+    3300090: Rectangle181
+    3300092: Rectangle181 1
+    3300094: Rectangle182
+    3300096: Rectangle182 1
+    3300098: Rectangle183
+    3300100: Rectangle184
+    3300102: Rectangle184 1
+    3300104: Rectangle185
+    3300106: Rectangle185 1
+    3300108: Rectangle186
+    3300110: Rectangle186 1
+    4300000: GeoSphere233
+    4300002: GeoSphere231
+    4300004: Circle128
+    4300006: Circle129
+    4300008: Circle130
+    4300010: Circle125
+    4300012: Circle126
+    4300014: Circle127
+    4300016: Circle134
+    4300018: Circle135
+    4300020: Circle136
+    4300022: GeoSphere241
+    4300024: Circle131
+    4300026: Circle132
+    4300028: Circle133
+    4300030: Rectangle186
+    4300032: Rectangle185
+    4300034: Rectangle184
+    4300036: Rectangle182
+    4300038: Rectangle181
+    4300040: Line101
+    4300042: Line100
+    4300044: Line99
+    4300046: Line98
+    4300048: Circle128
+    4300050: Circle129
+    4300052: GeoSphere229
+    4300054: GeoSphere227
+    4300056: GeoSphere225
+    4300058: Circle125
+    4300060: Circle126
+    4300062: Circle127
+    4300064: GeoSphere223
+    4300066: GeoSphere245
+    4300068: GeoSphere243
+    4300070: Circle134
+    4300072: Circle135
+    4300074: Circle136
+    4300076: GeoSphere240
+    4300078: GeoSphere238
+    4300080: Circle131
+    4300082: Circle132
+    4300084: Circle133
+    4300086: GeoSphere236
+    4300088: Rectangle186
+    4300090: Rectangle185
+    4300092: Rectangle184
+    4300094: Rectangle183
+    4300096: Rectangle182
+    4300098: Rectangle181
+    4300100: Line101
+    4300102: Line100
+    4300104: Line99
+    4300106: Line98
+    4300108: Line97
+    4300110: Box001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

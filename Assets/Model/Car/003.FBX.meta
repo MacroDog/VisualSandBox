@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 8fed3866dc8c325439798bbf5c24a33a
+timeCreated: 1480642576
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: jeep-3stop
+    100004: jeep-grid
+    100006: jeep-inside
+    100008: jeep-mainbody
+    100010: jeep-mainbody-dors
+    100012: jeep-orange
+    100014: jeep-plastic shields
+    100016: jeep-red
+    100018: jeep-spare
+    100020: jeep-whipers
+    100022: Jeep_Liberty
+    100024: Rad_HL
+    100026: RAD_HL_inside
+    100028: Rad_HR
+    100030: RAD_HR_inside
+    100032: Rad_VL
+    100034: RAD_VL_inside
+    100036: Rad_VR
+    100038: RAD_VR_inside
+    400000: //RootNode
+    400002: jeep-3stop
+    400004: jeep-grid
+    400006: jeep-inside
+    400008: jeep-mainbody
+    400010: jeep-mainbody-dors
+    400012: jeep-orange
+    400014: jeep-plastic shields
+    400016: jeep-red
+    400018: jeep-spare
+    400020: jeep-whipers
+    400022: Jeep_Liberty
+    400024: Rad_HL
+    400026: RAD_HL_inside
+    400028: Rad_HR
+    400030: RAD_HR_inside
+    400032: Rad_VL
+    400034: RAD_VL_inside
+    400036: Rad_VR
+    400038: RAD_VR_inside
+    2300000: jeep-3stop
+    2300002: jeep-grid
+    2300004: jeep-inside
+    2300006: jeep-mainbody
+    2300008: jeep-mainbody-dors
+    2300010: jeep-orange
+    2300012: jeep-plastic shields
+    2300014: jeep-red
+    2300016: jeep-spare
+    2300018: jeep-whipers
+    2300020: Jeep_Liberty
+    2300022: Rad_HL
+    2300024: RAD_HL_inside
+    2300026: Rad_HR
+    2300028: RAD_HR_inside
+    2300030: Rad_VL
+    2300032: RAD_VL_inside
+    2300034: Rad_VR
+    2300036: RAD_VR_inside
+    3300000: jeep-3stop
+    3300002: jeep-grid
+    3300004: jeep-inside
+    3300006: jeep-mainbody
+    3300008: jeep-mainbody-dors
+    3300010: jeep-orange
+    3300012: jeep-plastic shields
+    3300014: jeep-red
+    3300016: jeep-spare
+    3300018: jeep-whipers
+    3300020: Jeep_Liberty
+    3300022: Rad_HL
+    3300024: RAD_HL_inside
+    3300026: Rad_HR
+    3300028: RAD_HR_inside
+    3300030: Rad_VL
+    3300032: RAD_VL_inside
+    3300034: Rad_VR
+    3300036: RAD_VR_inside
+    4300000: Jeep_Liberty
+    4300002: jeep-whipers
+    4300004: jeep-plastic shields
+    4300006: jeep-mainbody
+    4300008: jeep-mainbody-dors
+    4300010: jeep-inside
+    4300012: jeep-spare
+    4300014: jeep-grid
+    4300016: Rad_HR
+    4300018: Rad_VR
+    4300020: Rad_HL
+    4300022: Rad_VL
+    4300024: RAD_HR_inside
+    4300026: RAD_VR_inside
+    4300028: RAD_HL_inside
+    4300030: RAD_VL_inside
+    4300032: jeep-3stop
+    4300034: jeep-red
+    4300036: jeep-orange
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
